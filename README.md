@@ -6,7 +6,7 @@ Kullanışlı fonksiyon çizmenize yardımcı olacak bir program birden fazla fo
 
 # Kurulum
 
-- Projeyi yükleyelim. `[git clone ](https://github.com/yasirkaramandev/fonksiyon.git)`
+- Projeyi yükleyelim. `git clone https://github.com/yasirkaramandev/fonksiyon.git`
 
 - Gerekli kütüphaneleri indirelim. `pip install -r requeriments.txt`
 - Ve hazırız! Deneyelim. `python fonksiyonmain.py`
